@@ -18,7 +18,7 @@ JPush's Golang client library for accessing JPush APIs. 极光推送的 Golang �
 - [ ] Admin API v3
 
 ## 使用
-`go get github.com/Scorpio69t/jpush-api-golang-client`
+`go get github.com/solywsh/jpush`
 
 ## 推送流程
 

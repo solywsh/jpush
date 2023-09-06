@@ -1,3 +1,3 @@
-module github.com/Scorpio69t/jpush-api-golang-client
+module github.com/solywsh/jpush
 
 go 1.17
